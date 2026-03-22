@@ -178,9 +178,14 @@ fraud-detection-system/
 
 ### Analytics View
 *Comprehensive statistics, feature importance, and model performance metrics*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af40e294-af72-4dfe-b44f-208b441e171e" />
 
-### Input Panel
-*Professional form with 20 transaction features organized by category*
+*Testing for Fraud Cases* 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eeeca6d-9c84-4940-88c1-28e39313c91e" />
+
+*Testing for Not Fraud Cases*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2303d9fd-c31f-4c3b-9235-d6cbec5fb0f7" />
+
 
 ## 🔧 Configuration
 
