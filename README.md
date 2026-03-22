@@ -173,6 +173,8 @@ fraud-detection-system/
 
 ### Main Dashboard
 *Real-time fraud analysis with interactive risk gauge and decision display*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47766723-92a5-42fe-92e8-cb4b864b1dbe" />
+
 
 ### Analytics View
 *Comprehensive statistics, feature importance, and model performance metrics*
