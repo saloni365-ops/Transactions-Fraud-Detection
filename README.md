@@ -377,6 +377,24 @@ fraud-detection-project/
 
 ---
 
+## 📦 Model Access
+
+🚀 Models are hosted externally:
+
+👉 https://huggingface.co/saloni-b/fraud-detection-model
+
+### Load in Python:
+```python
+from huggingface_hub import hf_hub_download
+import joblib
+
+path = hf_hub_download(
+    repo_id="saloni-b/fraud-detection-model",
+    filename="fraud_detector_improved.joblib"
+)
+
+model = joblib.load(path)
+
 ## 📊 Top Fraud Indicators
 
 Ranked by importance in model predictions:
