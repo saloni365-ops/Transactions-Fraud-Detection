@@ -50,11 +50,12 @@ default:
 | notebooks/       | Training & Exploratory Data Analysis (DA)
 |
 ## How to Run
+```bash
 git clone https://github.com/saloni365-ops/Transactions-Fraud-Detection 
 git cd Transactions-Fraud-Detection 
 pip install -r requirements.txt 
 streamlit run app.py 
-
+```
 ## Key Takeaway
 tThis project demonstrates a production-style fraud detection system with machine learning, decision logic, and a user-facing dashboard.
 
